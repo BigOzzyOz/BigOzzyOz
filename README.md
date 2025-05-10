@@ -1,14 +1,14 @@
 # Hi there, I'm Jan Holtschke!
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=3178C6&center=true&vCenter=true&width=435&lines=Frontend+Developer;Tech+Enthusiast;Always+Learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=3178C6&center=true&vCenter=true&width=435&lines=Frontend+Developer;Aspiring+Full+Stack;Always+Learning" alt="Typing SVG" />
 </p>
 
 ---
 
 ## About Me
 <p align="center">
-I'm a **Frontend Developer** with a passion for crafting intuitive and dynamic web applications. After years of leadership experience in the security industry, I transitioned into tech, completing a project-focused program at **Developer Akademie**. I'm currently expanding my expertise into **backend development** to become a full-stack developer.
+I'm a **Frontend Developer** from Germany, evolving into a **Full-Stack Developer**, with a passion for crafting intuitive and dynamic web applications. After years of leadership experience in the security industry, I transitioned into tech, completing a project-focused program at **Developer Akademie**. I am a native German speaker and fluent in English.
 </p>
 
 ---
@@ -16,17 +16,20 @@ I'm a **Frontend Developer** with a passion for crafting intuitive and dynamic w
 ## 🛠 Tech Stack
 <p align="center">
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/DRF-Django_Rest_Framework-red?style=for-the-badge&logo=django" />
   <img src="https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
 </p>
 
-**Backend (Learning):**  
+**Currently Exploring:**  
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/DRF-Django_Rest_Framework-red?style=for-the-badge&logo=django" />
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/SAP%20UI5-0974D2?style=for-the-badge&logo=sap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 </p>
 
 **Tools:**  
@@ -46,13 +49,16 @@ I'm a **Frontend Developer** with a passion for crafting intuitive and dynamic w
     <img src="https://img.shields.io/badge/Sharkie-2D_Game-blue?style=for-the-badge&logo=github" />
   </a>
   <a href="https://github.com/BigOzzyOz/Join">
-    <img src="https://img.shields.io/badge/Join-Kanban_App-purple?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/Join_(Frontend)-Kanban_App-purple?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://github.com/BigOzzyOz/be_join">
+    <img src="https://img.shields.io/badge/Join_(Backend)-Kanban_API-8A2BE2?style=for-the-badge&logo=github" />
   </a>
   <a href="https://github.com/BigOzzyOz/DA-Bubble">
     <img src="https://img.shields.io/badge/DA_Bubble-Chat_App-green?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://github.com/BigOzzyOz/Pokedex">
-    <img src="https://img.shields.io/badge/Pokedex-App-yellow?style=for-the-badge&logo=github" />
+  <a href="https://github.com/BigOzzyOz/be_coderr">
+    <img src="https://img.shields.io/badge/Coderr_(Backend)-Social_Platform_API-orange?style=for-the-badge&logo=github" />
   </a>
 </p>
 
