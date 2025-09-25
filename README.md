@@ -9,7 +9,7 @@
 ## About Me
 
 <p align="center">
-I'm a **Fullstack Developer** based in Germany, specializing in building robust applications from the database (Python/Django) to the modern frontend (Angular/TypeScript). My background includes extensive leadership experience in the security industry, which instilled a strong focus on structured problem-solving and reliability. I successfully transitioned into tech after completing a project-focused program at **Developer Akademie**. I am a native German speaker and fluent in English.
+I'm a Fullstack Developer based in Germany, specializing in building robust applications from the database (Python/Django) to the modern frontend (Angular/TypeScript). My background includes extensive leadership experience in the security industry, which instilled a strong focus on structured problem-solving and reliability. I successfully transitioned into tech after completing a project-focused program at Developer Akademie. I am a native German speaker and fluent in English.
 </p>
 
 ---
