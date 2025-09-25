@@ -1,7 +1,7 @@
 # Hi there, I'm Jan Holtschke
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=3178C6&center=true&vCenter=true&width=435&lines=Fullstack+Developer+(Angular+%26+Django);Building+Systems+End-to-End;Always+Seeking+New+Challenges" alt="Fullstack Developer Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=3178C6&center=true&vCenter=true&width=600&lines=Fullstack+Developer+(Angular+%26+Django);Building+Systems+End-to-End;Always+Seeking+New+Challenges" alt="Fullstack Developer Typing Animation" />
 </p>
 
 ---
